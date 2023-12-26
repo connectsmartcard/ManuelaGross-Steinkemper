@@ -117,6 +117,8 @@ a {
 @media (max-width: 600px) {
   .card {
     width: 90%;
+    white-space: normal; /* Ermöglicht den Textumbruch auf kleinen Bildschirmen */
+
   }
 }
 
